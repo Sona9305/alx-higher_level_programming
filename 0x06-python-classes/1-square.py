@@ -1,4 +1,3 @@
-
 #!/usr/bin/python3
 """Working with OOP in python"""
 
